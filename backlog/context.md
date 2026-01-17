@@ -1,8 +1,4 @@
-Here is the raw Markdown file. You can copy this content directly, save it as `PROJECT_CONTEXT.md` (or similar), and upload it to your AI tool.
 
-I have structured it specifically for LLM context ingestion: it defines **personas**, **strict technical constraints**, **data contracts**, and **architectural flows** to prevent the AI from hallucinating incorrect tools or workflows.
-
-```markdown
 # Project Context: Kart Result SEEKR
 **Version:** 1.0.0
 **Type:** Distributed System / On-Demand Scraping
